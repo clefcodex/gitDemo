@@ -1,5 +1,10 @@
 # gitDemo
 
-#This is good
+# This is good
 
-##Something good has been added
+# Header
+
+## A sub header
+
+## Something good has been added
+
